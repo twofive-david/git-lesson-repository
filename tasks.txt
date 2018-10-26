@@ -1,6 +1,10 @@
-3 redirections
-1 setup the environment
-4 manipulations
-2 basic terminal operations
-2 basic terminal operations
-2 basic terminal operations
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+
+    </body>
+</html>
